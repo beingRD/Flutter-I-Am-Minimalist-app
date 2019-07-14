@@ -20,8 +20,8 @@ void main() {
         child: Image.asset(
           'images/clever-man-100.png',
           fit: BoxFit.fill,
-          width: 140.0,
-          height: 140.0,
+          width: 169.0,
+          height: 169.0,
         ),
       ),
     ),
